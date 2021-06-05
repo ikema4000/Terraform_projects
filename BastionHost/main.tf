@@ -161,3 +161,4 @@ resource "aws_instance" "my_t2_ohio" {
     Name = "Terraform Public"
   }
 }
+
